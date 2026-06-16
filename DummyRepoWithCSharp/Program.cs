@@ -2,8 +2,10 @@
 {
     public void Addition()
     {
-        int x=10,y;
-        y=x+x;
-        Console.WriteLine("Addition="+y);
+ 
+        int a = 10, b = 20, c;
+        c = a + b;
+        Console.WriteLine("Add=" + c);
+ 
     }
 }
